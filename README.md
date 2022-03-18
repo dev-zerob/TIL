@@ -23,7 +23,7 @@ search: false
 ---
 
 ### HTML
-
+- [Basic](html/basic.md)
 
 ---
 
@@ -31,7 +31,7 @@ search: false
 
 ## License
 
-&copy; 2022-2022 dev-Zerob
+&copy; 2022-2022 dev-zerob
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
