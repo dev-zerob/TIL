@@ -24,6 +24,7 @@ search: false
 
 ### HTML
 - [Basic](html/basic.md)
+- [Semantic Tags](html/semantic-tag.md)
 
 ---
 
