@@ -14,11 +14,10 @@ search: false
 
 <br>
 
----
-
 ### Categories
 
 * [HTML](#HTML)
+* [CSS](#CSS)
 
 ---
 
@@ -26,6 +25,8 @@ search: false
 - [Basic](html/basic.md)
 - [Semantic Tags](html/semantic-tag.md)
 
+### CSS
+- [Basic](css/basic.md)
 ---
 
 <br/>
